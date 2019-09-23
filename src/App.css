@@ -16,4 +16,7 @@
 
 
 
-
+.activeCard {
+    color: rgb(226, 94, 116);
+    background: rgb(68, 228, 214);
+}
